@@ -1,0 +1,2 @@
+# ecan
+haii ini ecan
